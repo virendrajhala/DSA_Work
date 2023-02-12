@@ -26,7 +26,8 @@ def main1(lst):
     print()
 
     end = datetime.now()
-    print("Execution time",(end - start).microseconds,"microseconds")
+    print("Execution time", (end - start).microseconds, "microseconds")
+
 
 # applying input to main fun
 for lst in [

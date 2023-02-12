@@ -10,5 +10,5 @@ def reverseList(lst):
 
 print(reverseList([1, 2, 3, 4, 5, 6, 7, 8, 9]))
 
-l = list((1,2,3))
+l = list((1, 2, 3))
 print(l)
