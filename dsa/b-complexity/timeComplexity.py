@@ -1,6 +1,6 @@
 from datetime import datetime
 
-# time complexity -> how the runtime scales with respect to the state of change of input
+# time b-complexity -> how the runtime scales with respect to the state of change of input
 # the state of change of steps with respect to the input change
 
 list = [1, 2, 3, 4, 5, 6, 7, 8, 9, 7]

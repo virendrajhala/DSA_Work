@@ -1,4 +1,4 @@
-# below code takes Space complexity (S.C) -> O(n), T.C. -> O(n)
+# below code takes Space b-complexity (S.C) -> O(n), T.C. -> O(n)
 def reverseList(lst):
     n = len(lst)
     res = []

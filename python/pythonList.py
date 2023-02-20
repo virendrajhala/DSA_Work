@@ -47,7 +47,7 @@ print(listExample.pop(0))
 dequeueList = deque([1,2,34,3])
 
 # very lesser data movement
-# below code takes O(1) complexity as it moves head to second position
+# below code takes O(1) b-complexity as it moves head to second position
 print(dequeueList.popleft())
 # same for below
 print(dequeueList.appendleft(10))
